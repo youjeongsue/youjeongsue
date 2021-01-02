@@ -17,7 +17,18 @@
 - [ ] The Hadoop Distributed File System, Shvachko K Kuang H Radia S Chansler
 - [ ] MapReduce : Simplified Data Processing on Large Clusters, Dean J Ghemawat S
 - [ ] Jeffrey Dean and Sanjay Ghemawat. Mapreduce: simplified data processing on large clusters. Communications of the aCM, 51(1):107–113, 2008.
-- [ ] sdf
+- [ ] Hive: a warehousing solution over a map-reduce framework. Proceedings of the VLDB
+- [ ] MapReduce Online, Condie T Conway N Alvaro P Hellerstein JElmeleegy K Sears R
+- [ ] PACMan: Coordinated memory caching for parallel jobs, Ananthanarayanan G Ghodsi A Wang A
+- [ ] Hive: a warehousing solution over a map-reduce framework
+- [ ] Resilient Distributed Datasets : A Fault-Tolerant Abstraction for In-Memory Cluster Computing, Zaharia M Chowdhury M Das T Dave A Ma JMccauley M
+- [ ] Flink Forward conference in Berlin. Flink vs spark slideshare. http://www.slideshare.net/sbaltagi/flink-vs-spark? related=2.
+- [ ] Resilient Distributed Datasets : A Fault-Tolerant Abstraction for In-Memory Cluster Computing, Zaharia M Chowdhury M Das T Dave A Ma JMccauley M Franklin M
+- [ ] Streaming Data Analysis using Apache Cassandra and Zeppelin
+- [ ] Analysis of Hadoop performance and unstructured data using Zeppelin
+- [ ] Haloop efficient iterative data processing on large clusters
+- [ ] iMapReduce: A Distributed Computing Framework for Iterative Computation
+- [ ] Improving MapReduce Performance in Heterogeneous Environments
 
 </div>
 </details>
