@@ -8,7 +8,17 @@
 <details>
 <summary><a href='https://youjeongsue.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81'>🧁<b>논문리뷰</b></a></summary>
 <div markdown="1">
-- Piranha : Optimizing Short Jobs in Hadoop, Elmeleegy K
+  
+- [ ] Piranha : Optimizing Short Jobs in Hadoop, Elmeleegy K
+- [ ] Robert H Bonczek, Clyde W Holsapple, and Andrew B Whinston. Foundations of decision support systems. Academic Press, 2014.
+- [ ] Yingyi Bu, Bill Howe, Magdalena Balazinska, and Michael D Ernst. Haloop: efficient iterative data processing on large clusters. Proceedings of the VLDB Endowment,
+- [ ] An Experimental Comparison of Pregel-like, Systems G Han M Daudjee K Ammar KOzsu M Wang X Jin T
+- [ ] Twister : A Runtime for Iterative MapReduce, Ekanayake J Li H Zhang B Gunarathne TBae S Qiu J Fox G
+- [ ] The Hadoop Distributed File System, Shvachko K Kuang H Radia S Chansler
+- [ ] MapReduce : Simplified Data Processing on Large Clusters, Dean J Ghemawat S
+- [ ] Jeffrey Dean and Sanjay Ghemawat. Mapreduce: simplified data processing on large clusters. Communications of the aCM, 51(1):107–113, 2008.
+- [ ] sdf
+
 </div>
 </details>
 
