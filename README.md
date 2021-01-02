@@ -1,5 +1,12 @@
-#### 안녕하세요! 기본기가 탄탄한 데이터 엔지니어가 될 유정수입니다. 😊
+### 안녕하세요! 기본기가 탄탄한 데이터 엔지니어가 될 유정수입니다. 😊
 
+💗<b>관심분야</b>
+- Hadoop, Spark, Kafka, Docker, ...
+- 대용량 데이터 처리, 분산 시스템, 데이터 분석
+
+🌺<b>[블로그](https://youjeongsue.tistory.com/)</b></br>
+🎀<b>[프로젝트](https://youjeongsue.tistory.com/category/%ED%9A%8C%EA%B3%A0)</b></br>
+🧁🌸
 <!--
 **youjeongsue/youjeongsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
