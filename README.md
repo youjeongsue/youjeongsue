@@ -4,9 +4,8 @@
 - Hadoop, Spark, Kafka, Docker, ...
 - 대용량 데이터 처리, 분산 시스템, 데이터 분석
 
-🌺<b>[블로그](https://youjeongsue.tistory.com/)</b></br>
-🎀<b>[프로젝트](https://youjeongsue.tistory.com/category/%ED%9A%8C%EA%B3%A0)</b></br>
-🧁🌸
+🌺<b>[블로그](https://youjeongsue.tistory.com/)</b> 🎀<b>[프로젝트](https://youjeongsue.tistory.com/category/%ED%9A%8C%EA%B3%A0)</b> 🧁<b>[논문리뷰](https://youjeongsue.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)</b> 🌸<b>[CS](https://youjeongsue.tistory.com/category/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%ED%83%84%ED%83%84%ED%95%9C%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)</b>
+
 <!--
 **youjeongsue/youjeongsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
