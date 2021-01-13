@@ -4,8 +4,12 @@
 - Hadoop, Spark, Kafka, Docker, ...
 - 대용량 데이터 처리, 분산 시스템, 데이터 분석
 
-🌺<b>[블로그](https://youjeongsue.tistory.com/)</b> 🎀<b>[프로젝트](https://youjeongsue.tistory.com/category/%ED%9A%8C%EA%B3%A0)</b> 🌸<b>[CS](https://youjeongsue.tistory.com/category/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%ED%83%84%ED%83%84%ED%95%9C%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)</b>
-<details>
+🌺<b>[블로그](https://youjeongsue.tistory.com/)</b> 데이터 엔지니어가 되기위해 공부하고 있는 모든 것!!
+
+🎀<b>[프로젝트](https://youjeongsue.tistory.com/category/%ED%9A%8C%EA%B3%A0)</b> 웹 개발/데이터 분석/추천시스템/딥러닝 등
+
+🌸<b>[CS](https://youjeongsue.tistory.com/category/%EA%B8%B0%EB%B3%B8%EA%B8%B0%20%ED%83%84%ED%83%84%ED%95%9C%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)</b> 자료구조/알고리즘/컴퓨터구조/운영체제/네트워크/데이터베이스 등
+<details> 
 <summary><a href='https://youjeongsue.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81'>🧁<b>논문리뷰</b></a></summary>
 <div markdown="1">
   
@@ -32,18 +36,3 @@
 
 </div>
 </details>
-
-<!--
-**youjeongsue/youjeongsue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
