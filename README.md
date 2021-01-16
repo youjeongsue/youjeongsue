@@ -1,7 +1,7 @@
 ### 안녕하세요! 기본기가 탄탄한 데이터 엔지니어 유정수입니다. 😊
 
 💗<b>관심분야</b>
-- Hadoop, Spark, Kafka, Docker, ...
+- Hadoop, Spark, Kafka, Docker ...
 - 대용량 데이터 처리, 분산 시스템, 데이터 분석
 
 🌺<b>[블로그](https://youjeongsue.tistory.com/)</b> 데이터 엔지니어가 되기위해 공부하고 있는 모든 것!!
